@@ -1,0 +1,49 @@
+.arrow {
+  width: 100%;
+  position: relative;
+}
+
+.dropdown {
+  width: 100%;
+  background: #fff;
+  color: #000;
+  margin-bottom: 7px;
+  padding: 8px;
+  border-radius: 8px;
+  position: relative;
+  text-align: end;
+  cursor: pointer;
+
+  img {
+    transform: translateY(3px);
+  }
+}
+
+.dropdownTitle {
+  width: 100%;
+  position: absolute;
+  background: #ebecf0;
+  color: #000;
+  margin: 0;
+  padding: 0;
+  border-radius: 8px;
+}
+
+.title {
+  width: 95%;
+  margin: 0 auto;
+  padding: 8px;
+  margin-bottom: 5px;
+  transform: all 0.3s;
+  border-radius: 8px;
+  background: #fff;
+}
+
+.title:hover {
+  cursor: pointer;
+  background: #dedede;
+}
+
+.disabled {
+  pointer-events: none;
+}

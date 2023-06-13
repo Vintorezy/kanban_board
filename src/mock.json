@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "title": "Learn RTK-Query",
+    "description": "Some text",
+    "status": "backlog"
+  },
+  {
+    "id": "2",
+    "title": "Learn Redux-Toolkit",
+    "description": "Some text test tset",
+    "status": "backlog"
+  },
+  {
+    "id": "3",
+    "title": "Learn React",
+    "description": "Some text qfqfqwf qfq wfqfq",
+    "status": "finished"
+  },
+  {
+    "id": "4",
+    "title": "Learn Next",
+    "description": "Some text fqf qfqwfqwfqffqfqffq",
+    "status": "inProgress"
+  },
+  {
+    "id": "5",
+    "title": "Learn SCSS",
+    "description": "Some text test test ok",
+    "status": "ready"
+  }
+]
